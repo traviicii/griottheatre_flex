@@ -87,3 +87,26 @@ hr.solid {
 .thumbnail {
     width: 175px;
 }
+
+/*----------Footer----------*/
+#footer {
+    display:flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 5%;
+}
+
+.footer-info a {
+    text-decoration: none;
+    color: white;
+}
+
+.icon-padding {
+    padding: 3%;
+    white-space: nowrap;
+}
+
+#info1 {
+    flex-grow: .1;
+}
