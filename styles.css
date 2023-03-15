@@ -39,11 +39,10 @@
     font-size:80px;
 }
 
-/*----------Shows----------*/
+/*----------Show Listings----------*/
 .shows {
     display: flex;
     justify-content: center;
-    
 }
 
 #month {
